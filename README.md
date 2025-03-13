@@ -4,7 +4,6 @@ HTML5 Basic Table
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Calculus Final Exams Table</title>
     <meta charset="UTF-8" />
   </head>
   <body>
